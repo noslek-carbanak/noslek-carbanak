@@ -29,13 +29,6 @@ Busco sempre criar soluções limpas, escaláveis e com impacto real.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 
-### ☁️ DevOps & Ferramentas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=fff)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -47,10 +40,7 @@ Busco sempre criar soluções limpas, escaláveis e com impacto real.
 
 ## 📫 Contato
 
-📧 **Email:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)  
-💼 **LinkedIn:** [linkedin.com/in/noslek](https://linkedin.com/in/noslek)  
-🌐 **Portfólio:** [noslek.dev](https://noslek.dev)
+📧 **Email:** [seuemail@exemplo.com](mailto:faruktaliba@gmail.com) 
+🌐 **Portfólio:** [noslek.dev](https://noslekcarbanak.blogspot.com)
 
 ---
-
-⭐ _"Build. Learn. Share. Repeat."_  
