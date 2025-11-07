@@ -40,7 +40,7 @@ Busco sempre criar soluções limpas, escaláveis e com impacto real.
 
 ## 📫 Contato
 
-📧 **Email:** [seuemail@exemplo.com](mailto:faruktaliba@gmail.com) 
-🌐 **Portfólio:** [noslek.dev](https://noslekcarbanak.blogspot.com)
+📧 **Email:** [faruktaliba@gmail.com](mailto:faruktaliba@gmail.com) 
+🌐 **Portfólio:** [noslekcarbanak.blogspot.com(https://noslekcarbanak.blogspot.com)
 
 ---
