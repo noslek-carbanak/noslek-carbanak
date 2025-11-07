@@ -45,16 +45,6 @@ Busco sempre criar soluções limpas, escaláveis e com impacto real.
 
 </div>
 
----
-
-## 🧩 Projetos em Destaque
-
-- 🚀 [**Portfolio Pessoal**](https://github.com/Noslek/portfolio) — Site moderno com React + Tailwind + Vite.  
-- 🔐 [**API Auth System**](https://github.com/Noslek/auth-api) — API segura com JWT e Refresh Tokens.  
-- 🧠 [**AI Assistant CLI**](https://github.com/Noslek/ai-cli) — Ferramenta de linha de comando usando OpenAI API.  
-
----
-
 ## 📫 Contato
 
 📧 **Email:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)  
