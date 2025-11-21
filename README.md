@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Noslek  
+# 👋 Olá, eu sou o Carbanak 
 
 💻 **Full Stack Developer**  
 Apaixonado por tecnologia, automação e desenvolvimento web moderno.  
@@ -6,6 +6,15 @@ Trabalho com **JavaScript, TypeScript, Node.js, React, Python** e **SQL/NoSQL**.
 Busco sempre criar soluções limpas, escaláveis e com impacto real.  
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Noslek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noslek&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noslek&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ## 🚀 Tech Stack
 
@@ -28,19 +37,5 @@ Busco sempre criar soluções limpas, escaláveis e com impacto real.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Noslek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noslek&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noslek&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 📫 Contato
-
-📧 **Email:** [faruktaliba@gmail.com](mailto:faruktaliba@gmail.com) 
-🌐 **Portfólio:** [noslekcarbanak.blogspot.com(https://noslekcarbanak.blogspot.com)
 
 ---
